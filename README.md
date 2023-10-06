@@ -21,4 +21,4 @@ permissions and limitations under the License.
 
 # Samples
 
-*cloudwatch_alarm_processor_lambda.py* // Enriches CloudWatch alarm SNS message with Cloudwatch alarm tags and reformats the default alarm message payload before republishing to another SNS topic
+*cloudwatch_alarm_processor_lambda.py*: Enriches CloudWatch alarm SNS message with Cloudwatch alarm tags and reformats the default alarm message payload before republishing to another SNS topic
